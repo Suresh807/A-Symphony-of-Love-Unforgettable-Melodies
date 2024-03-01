@@ -25,9 +25,7 @@ Symphony of Love is a web-based music player that invites you to immerse yoursel
    cd path/to/your/desired/directory
    
 4. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/symphony-of-love.git
-   ```
+   https://github.com/Suresh807/A-Symphony-of-Love-Unforgettable-Melodies.git
 
 5. Press Enter to execute the command. This will clone the repository to your local machine. 🌐
 
