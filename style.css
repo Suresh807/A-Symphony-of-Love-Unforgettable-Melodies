@@ -34,7 +34,7 @@ body{
 }
 
 .right-banner {
-    margin-top: -13em; /* Adjusted margin-top for the right banner */
+    margin-top: -13em; 
     float: right;
     margin-right: 0em;
 }
