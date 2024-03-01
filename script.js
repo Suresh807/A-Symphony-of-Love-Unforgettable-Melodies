@@ -53,56 +53,56 @@ function playAll(songNumber){
         } else if (songNumber === 2) {
             banner.style.backgroundImage = "url(images/d13.jpg)";
             bannerImage.setAttribute("src", "images/");
-            bannerHeading.textContent = "Ghar (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Unnaal Unnaal";
+            bannerText.textContent = "Hariharah,Haricharan,Pooja-A R Rahman";
         }
         else if (songNumber === 3) {
             banner.style.backgroundImage = "url(images/s1.jpg)";
             bannerImage.setAttribute("src", "images/");
-            bannerHeading.textContent = "Kahi to hogi woh (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Avalum Naanum";
+            bannerText.textContent = "Vijay Yesudas - A R Rahman";
         }
         else if (songNumber === 4) {
             banner.style.backgroundImage = "url(images/s5.jpg)";
             bannerImage.setAttribute("src", "images/image 4.jpg");
-            bannerHeading.textContent = "Kasoor (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Nee Paartha Vizhigal";
+            bannerText.textContent = "Vijay Yesudas & Shwetha Mohan - Anirudh";
         }
         else if (songNumber === 5) {
             banner.style.backgroundImage = "url(images/s6.jpg)";
             bannerImage.setAttribute("src", "images/image 5.png");
-            bannerHeading.textContent = "Tu Hai Kahan";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Yedho Ondru";
+            bannerText.textContent = "Harish Raghavendra,Srilekha Parthasarthy,Franko - Harris Jayaraj";
         }
         else if (songNumber === 6) {
             banner.style.backgroundImage = "url(images/s7.jpg)";
             bannerImage.setAttribute("src", "images/image 6.png");
-            bannerHeading.textContent = "Baarishein - Anuv Jain (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Nenjukkul Peidhidum";
+            bannerText.textContent = "Hariharan,Devan Ekambaram & V.V. Prassanna - Harris Jayaraj";
         }
         else if (songNumber === 7) {
             banner.style.backgroundImage = "url(images/s8.jpg)";
             bannerImage.setAttribute("src", "images/image 7.png");
-            bannerHeading.textContent = "Waqt Ki Baatein (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Azhaipaya Azhaipaya";
+            bannerText.textContent = "Karthik,Harini";
         }
         else if (songNumber === 8) {
             banner.style.backgroundImage = "url(images/s10.jpg)";
             bannerImage.setAttribute("src", "images/image 8.png");
-            bannerHeading.textContent = "Lovely feat. Anika Vidyarthi (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Oliyile Therivadhu";
+            bannerText.textContent = "Karthik,Bhavatharini - Ilaiyaraaja";
         }
         else if (songNumber === 9) {
             banner.style.backgroundImage = "url(images/s11.jpg)";
             bannerImage.setAttribute("src", "images/image 9.png");
-            bannerHeading.textContent = "Let me down slowly - Alec Benjamin (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Kadhale Kadhale";
+            bannerText.textContent = "Shankar Mahadevan,Padmalatha - Hiphop Tamizha";
         }
         else if (songNumber === 10) {
             banner.style.backgroundImage = "url(images/s16.png)";
             bannerImage.setAttribute("src", "images/image 10.png");
-            bannerHeading.textContent = "Jee Le Zara - (Cover)";
-            bannerText.textContent = "By Ishaan Kaushik";
+            bannerHeading.textContent = "Oru Devathai";
+            bannerText.textContent = "RoopKumar Rathod - Yuvanshankar Raja";
         }
     }
 }
